@@ -1,0 +1,1 @@
+A series of scripts to calculate angular correlation functions using [corrfunc](https://github.com/manodeep/Corrfunc), including a number of related functions (e.g. finding the stellar locus). Written with VISTA data over the XMM-LSS and COSMOS extragalactic fields in mind, but could be adapted to other data sets.
