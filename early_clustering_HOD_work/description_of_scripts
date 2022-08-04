@@ -1,0 +1,1 @@
+An older series of scripts to calculate angular correlation functions and fit HOD models using own ACF code and [halomod](https://github.com/halomod/halomod), including a number of related functions (e.g. finding the stellar locus). Written with VIDEO-VISTA data over the CFHTLS-D1 extragalactic field in mind, but could be adapted to other data sets.
